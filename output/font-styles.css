@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.GodrejOpenSans {	font-family: "OpenSans-Regular";	font-size: 14px;}
